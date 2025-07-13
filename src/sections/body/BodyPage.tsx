@@ -180,6 +180,19 @@ export const BodyPage = () => {
                         ))
                     }
             </Accordion>
+             <Accordion className={styles.accordion}>
+                    <AccordionSummary
+                            expandIcon={<ExpandMoreIcon />}
+                            aria-controls="panel1-content"
+                            id="panel1-header">
+                        <Typography component="span">Design</Typography>
+                    </AccordionSummary>
+                    <AccordionDetails>
+                        <Card>
+                            <h1> teste teste teste teste </h1>
+                        </Card>
+                    </AccordionDetails>
+            </Accordion>
       </div>
       
     </div>
