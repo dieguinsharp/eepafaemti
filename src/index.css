@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    font-size: 0.9rem;
+    background-color: whitesmoke;
+    margin-top: 5rem;
+    width: 100%;
+}
+
+main {
+    color: gray;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}

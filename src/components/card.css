@@ -1,0 +1,30 @@
+.card {
+    background: gray;
+    padding: 1.5rem;
+    border: 2px solid transparent;
+    border-radius: 1rem;
+}
+
+.card:hover {
+    background: white;
+    border-color: black;
+    transform: translateY(-0.5rem);
+}
+
+.card.light {
+    background: cornflowerblue;
+}
+
+.card.light:hover {
+    background: transparent;
+    border-color: white;
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 600px)
+{
+    .card {
+        padding: 1.2rem;
+    }
+}
