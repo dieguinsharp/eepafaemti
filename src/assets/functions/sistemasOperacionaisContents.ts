@@ -3,6 +3,7 @@ import {Content} from "../../common/Content.ts";
 import so01 from '../emti2/so2504.pdf';
 import so02 from '../emti2/so0905.pptx';
 import so03 from '../emti2/so2305.pptx';
+import so04 from '../emti2/so0508.pptx';
 
 // gestao do tempo area
 
@@ -24,6 +25,10 @@ function makeContentObjects() : Content[] {
         {
             title: defaultName + '23/05',
             path: so03
+        },
+        {
+            title: defaultName + 'Primeira Aula 3o Bimestre - 05/08',
+            path: so04
         }
     ]
 }
