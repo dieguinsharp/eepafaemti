@@ -6,6 +6,7 @@ import empreendedorismo03 from '../emti3/empreendedorismo1106.pptx';
 import empreendedorismo04 from '../emti3/empreendedorismo16.pdf';
 import empreendedorismo05 from '../emti3/empreendedorismo2805.pptx';
 import empreendedorismo06 from '../emti3/empreendedorismorevisao.pptx';
+import empreendedorismo07 from '../emti3/empreendedorismo0608.pptx';
 
 // gestao do tempo area
 
@@ -39,6 +40,10 @@ function makeContentObjects() : Content[] {
         {
             title: defaultName + 'Revisão',
             path: empreendedorismo06
+        },
+        {
+            title: defaultName + 'Primeira aula 3o Bimestre - 06/08',
+            path: empreendedorismo07
         }
     ]
 }
