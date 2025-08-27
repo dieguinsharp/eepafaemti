@@ -8,6 +8,7 @@ import empreendedorismo05 from '../emti3/empreendedorismo2805.pptx';
 import empreendedorismo06 from '../emti3/empreendedorismorevisao.pptx';
 import empreendedorismo07 from '../emti3/empreendedorismo0608.pptx';
 import empreendedorismo08 from '../emti3/empreendedorismo2008.pptx';
+import empreendedorismo09 from '../emti3/empreendedorismo2708.pptx';
 
 // gestao do tempo area
 
@@ -49,6 +50,10 @@ function makeContentObjects() : Content[] {
         {
             title: defaultName + 'Empreendedorismo Sustentável - 20/08',
             path: empreendedorismo08
+        },
+        {
+            title: defaultName + 'Trabalho Empreendedorismo - 27/08',
+            path: empreendedorismo09
         }
     ]
 }
