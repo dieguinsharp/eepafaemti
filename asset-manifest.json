@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eepafaemti/static/css/main.39832007.css",
-    "main.js": "/eepafaemti/static/js/main.f1f3f388.js",
+    "main.js": "/eepafaemti/static/js/main.9c92120a.js",
     "static/media/labsoftware1908.pptx": "/eepafaemti/static/media/labsoftware1908.549a8ed0f636a6ba4439.pptx",
     "static/media/labhardware2605.pptx": "/eepafaemti/static/media/labhardware2605.ae6484e79ffee4e49eb6.pptx",
     "static/media/empreendedorismo0608.pptx": "/eepafaemti/static/media/empreendedorismo0608.db70010b24dd134314ce.pptx",
@@ -23,6 +23,7 @@
     "static/media/gestao0508.pptx": "/eepafaemti/static/media/gestao0508.ca36b4d48032f68fa262.pptx",
     "static/media/so2504.pdf": "/eepafaemti/static/media/so2504.fce5c2e4c7e52fdad22e.pdf",
     "static/media/empreendedorismo0705.pdf": "/eepafaemti/static/media/empreendedorismo0705.678e86396200d4bfba57.pdf",
+    "static/media/arquitetura4b.pdf": "/eepafaemti/static/media/arquitetura4b.a8ee770fe797a0550a04.pdf",
     "static/media/empreendedorismo.pdf": "/eepafaemti/static/media/empreendedorismo.80a6ada51faf4159f211.pdf",
     "static/media/empreendedorismo16.pdf": "/eepafaemti/static/media/empreendedorismo16.4f016cc5590d527d5a20.pdf",
     "static/media/design.pdf": "/eepafaemti/static/media/design.b0de9ce505ac36a2c2ce.pdf",
@@ -32,10 +33,10 @@
     "static/media/labhardware.pdf": "/eepafaemti/static/media/labhardware.8dc26411dffb35d1eb73.pdf",
     "index.html": "/eepafaemti/index.html",
     "main.39832007.css.map": "/eepafaemti/static/css/main.39832007.css.map",
-    "main.f1f3f388.js.map": "/eepafaemti/static/js/main.f1f3f388.js.map"
+    "main.9c92120a.js.map": "/eepafaemti/static/js/main.9c92120a.js.map"
   },
   "entrypoints": [
     "static/css/main.39832007.css",
-    "static/js/main.f1f3f388.js"
+    "static/js/main.9c92120a.js"
   ]
 }
